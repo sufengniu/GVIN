@@ -1,7 +1,7 @@
 # [Generalized Value Iteration Networks: Life Beyond Lattices](https://arxiv.org/abs/1706.02416) in TensorFlow
 > Sufeng Niu, Siheng Chen, Hanyu Guo, Colin Targonski, Melissa C. Smith, Jelena Kovačević  _Generalized Value Iteration Networks_. 
 
-![Generalized Value Iteration Network](assets/framework.png)
+![Generalized Value Iteration Network](asset/framework.png)
 
 
 ## Dependencies
