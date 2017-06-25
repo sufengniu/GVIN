@@ -10,7 +10,7 @@
 * SciPy >= 0.18.1 (to load the data)
 
 ## Training
-Download the datasets from [here](google drive link)
+Download the datasets from [here](https://drive.google.com/file/d/0B4eFbZCPIAvMSjRyZmNVR3dNbEU/view?usp=sharing)
 
 ```
 # Runs 10 nodes graph with default parameter using imitation learning
