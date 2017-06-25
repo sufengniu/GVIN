@@ -10,7 +10,7 @@
 * SciPy >= 0.18.1 (to load the data)
 
 ## Training
-Download the datasets from [here](https://drive.google.com/file/d/0B4eFbZCPIAvMSjRyZmNVR3dNbEU/view?usp=sharing)
+```data``` directory already contains 16x16 grid world and 10 nodes irregular graph. To play with irregular graph which contains 100 nodes, Download the datasets from [here](https://drive.google.com/file/d/0B4eFbZCPIAvMSjRyZmNVR3dNbEU/view?usp=sharing). Then, put it in ```data``` directory. 
 
 ```
 # Runs 10 nodes graph with default parameter using imitation learning
