@@ -5,7 +5,7 @@
 
 
 ## Dependencies
-* Python >= 3.6
+* Python >= 2.7.6
 * TensorFlow >= 1.0
 * SciPy >= 0.18.1 (to load the data)
 
