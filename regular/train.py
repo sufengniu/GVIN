@@ -4,7 +4,7 @@ import tensorflow as tf
 from data import *
 from model import *
 from utils import *
-from graph2mat import *
+# from graph2mat import *
 
 # Data
 tf.app.flags.DEFINE_string('input',           '../data/gridworld_16.mat', 'Path to data')
